@@ -1,11 +1,12 @@
-width="405" height="392" alt="Screenshot 2025-09-27 at 12 45 05 PM" src="https://github.com/user-attachments/assets/92d468a1-0f8d-4e67-95db-f3e609574023" />
 # MenuShell
 A macOS terminal for the menu bar
 *some commands may not work as expected in MenuShell*
 
+<img width="405" height="392" alt="494787453-92d468a1-0f8d-4e67-95db-f3e609574023" src="https://github.com/user-attachments/assets/17bc0103-f62e-4b15-9e34-b9b72cd996d6" />
+
 ## Download and Install MenuShell
 
-1. **Download the installer**  
+1. **Download the installer**
    Download the `Install.MenuShell.zip` from the provided link.
 
 2. **Move to Applications**  
