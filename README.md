@@ -1,7 +1,9 @@
 # MenuShell
 A macOS terminal for the menu bar
-*some commands may not work as expected in MenuShell
-*width="405" height="392" alt="494787453-92d468a1-0f8d-4e67-95db-f3e609574023" src="https://github.com/user-attachments/assets/17bc0103-f62e-4b15-9e34-b9b72cd996d6" />
+
+<img width="405" height="392" alt="494787453-92d468a1-0f8d-4e67-95db-f3e609574023" src="https://github.com/user-attachments/assets/5119957c-a4cf-439b-8617-33574905ee24" />
+
+*Some commands may not work as expected in MenuShell*
 
 ## Download MenuShell with Homebrew
 ```sh
