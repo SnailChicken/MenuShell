@@ -7,7 +7,7 @@ A macOS terminal for the menu bar
 
 *Some commands may not work as expected in MenuShell*
 
-## Install MenuShell with Homebrew
+## Install MenuShell with Homebrew (Recommended)
 ```sh
 brew tap SnailChicken/tap
 brew install menushell
